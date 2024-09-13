@@ -5,4 +5,6 @@ Menu Buku tamu
 ![image](https://github.com/user-attachments/assets/c5d37539-5ee8-463e-b095-b477af49dde8)
 Menu daftar buku tamu
 ![image](https://github.com/user-attachments/assets/6f6ff7d3-b9a9-4066-ba03-209d4ecc5af4)
+Menu daftar buku tamu jika diinput data diri
+![image](https://github.com/user-attachments/assets/a6c0717b-e40c-4e63-b7fc-ea9c8a631627)
 
